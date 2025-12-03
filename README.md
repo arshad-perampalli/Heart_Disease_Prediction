@@ -4,7 +4,6 @@ This project leverages machine learning to predict the presence of heart disease
 
 ---
 
-![Heart Anatomy Diagram](https://user-images.githubusercontent.com/your-img-link-here/heart.png) <!-- Replace with your image link if available -->
 
 ## Features
 
@@ -16,15 +15,6 @@ This project leverages machine learning to predict the presence of heart disease
 
 ---
 
-## Demo Screenshots
-
-### Input Form
-![Streamlit App Input Example](https://user-images.githubusercontent.com/your-img-link-here/input.png) <!-- Replace with your image link -->
-
-### Model Results
-![Streamlit App Results Table and Metrics](https://user-images.githubusercontent.com/your-img-link-here/results.png) <!-- Replace with your image link -->
-
----
 
 ## Dataset
 
@@ -91,31 +81,21 @@ Open the provided local URL (e.g., http://localhost:8501) in your browser.
 
 ## Screenshot Reference
 
-1. ![Heart Anatomy](image1.png)  
-   An illustration of heart anatomy to enhance understanding of medical parameters used.
-
-2. ![Input Form](image2.png)  
+1. ![Input Form](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output1.png?raw=true)  
    App input fields for prediction.
 
-3. ![Prediction Results](image3.png)  
+2. ![Results](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output3.png?raw=true)  
    Data display and model performance results.
 
----
+3. ![Confusion Matrix](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/confusion%20matrix.png?raw=true)
 
-## Contributing
-
-Contributions, issue reports, and feature requests are welcome!
+4. ![Model Performance](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/Model%20Performance.png?raw=true)
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgements
 
-- Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
+- Dataset source: [UCI Machine Learning Repository](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - Streamlit for rapid web app development.
 - scikit-learn for machine learning.
