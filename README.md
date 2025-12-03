@@ -60,8 +60,6 @@ pip install -r requirements.txt
 streamlit run code.py
 ```
 
-Open the provided local URL (e.g., http://localhost:8501) in your browser.
-
 ---
 
 ## Model Details
