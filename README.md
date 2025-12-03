@@ -79,17 +79,21 @@ streamlit run code.py
 
 ## Screenshot Reference
 
+#1. Input Form
  ![Input Form](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output1.png?raw=true)  
    App input fields for prediction.
 
 ---
+#2. Results
  ![Results](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output3.png?raw=true)  
    Data display and model performance results.
 
 ---
+#3. Confusion Matrix
  ![Confusion Matrix](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/confusion%20matrix.png?raw=true)
 
 ---
+#4. Model Performance
  ![Model Performance](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/Model%20Performance.png?raw=true)
 
 ---
