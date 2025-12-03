@@ -81,15 +81,18 @@ Open the provided local URL (e.g., http://localhost:8501) in your browser.
 
 ## Screenshot Reference
 
-1. ![Input Form](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output1.png?raw=true)  
+ ![Input Form](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output1.png?raw=true)  
    App input fields for prediction.
 
-2. ![Results](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output3.png?raw=true)  
+---
+ ![Results](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output3.png?raw=true)  
    Data display and model performance results.
 
-3. ![Confusion Matrix](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/confusion%20matrix.png?raw=true)
+---
+ ![Confusion Matrix](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/confusion%20matrix.png?raw=true)
 
-4. ![Model Performance](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/Model%20Performance.png?raw=true)
+---
+ ![Model Performance](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/Model%20Performance.png?raw=true)
 
 ---
 
