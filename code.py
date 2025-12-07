@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import streamlit as st
 
-heart_df =pd.read_csv('heart.csv')
+heart_df =pd.read_csv('https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/c7b47320395377eaa1c4fbfa435d9e791c912c14/heart.csv')
 
 X=heart_df.drop('target',axis=1)
 y=heart_df['target']
@@ -103,4 +103,5 @@ st.subheader("Model Performance on Training Data")
 st.write(training_data_accuracy)  # Assuming it's defined
 st.subheader("Model Performance on Test Data")
 st.write(test_data_accuracy)  # Assuming it's defined
+
 
